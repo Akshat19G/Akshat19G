@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshat Srivastava!
 
-🎯 Coder | Creative Sketcher**  
+🎯 Coder | Learner 
 🔍 Passionate about quality software, clean code, artistic expression and music..
 
 ---
