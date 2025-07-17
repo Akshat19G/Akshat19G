@@ -15,9 +15,9 @@
 
 ## 🧰 Tech Stack
 
-- **Languages:** Python, JavaScript, HTML/CSS
+- **Languages:** Python, JavaScript, C++
 - **Tools:** Git, GitHub, VS Code, Jira, TestRail
-- **Others:** Figma, Photoshop (for sketching/digital art) , Da vinci
+- **Others:** Figma, Video Editing , Da vinci
 
 ---
 
