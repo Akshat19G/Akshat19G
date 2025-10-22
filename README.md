@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 - 💻 I enjoy writing **clean, efficient code**, mostly in Python, JavaScript.
-- ✍️ In my spare time, I **sketch**, design, and explore the intersection of tech + creativity, I play guuitar , listen to music and read some books.
+- ✍️ In my spare time, I **sketch**, design, and explore the intersection of tech + creativity, I play guitar , listen to music and read some books.
 - 🚀 Always curious and open to learning new things, whether it's tools, frameworks, or art techniques.
 
 ---
