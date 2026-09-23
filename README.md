@@ -1,15 +1,15 @@
-# Hey, I'm Akshat Srivastava 👋
+# Akshat Srivastava
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="180" alt="Akshat Srivastava">
+  <img src="https://github.com/Akshat19G.png" width="150" alt="Akshat Srivastava"/>
 </p>
 
 <p align="center">
-  <strong>AI Engineer • Builder • Open Source Enthusiast</strong>
+  <code>AI Engineer • Builder • Open Source</code>
 </p>
 
 <p align="center">
-  Building AI systems at 𝓜×𝓐×𝓢 | θ* = argminθ 𝓛(θ) | ∇𝓛 → 0
+  𝓜 × 𝓐 × 𝓢 &nbsp;|&nbsp; θ* = argmin<sub>θ</sub> 𝓛(θ) &nbsp;|&nbsp; ∇𝓛 → 0
 </p>
 
 <p align="center">
@@ -18,146 +18,49 @@
 
 ---
 
-## 🧠 About Me
+### Building
 
-I'm a Computer Science student focused on **Artificial Intelligence, Machine Learning,
-LLMs, and intelligent systems**.
+AI systems, intelligent agents and software that survives contact with reality.
 
-I like turning ideas into real products — from experimenting with models
-to building AI agents and deploying complete systems.
+`Python` · `PyTorch` · `ML` · `LLMs` · `Agents` · `FastAPI` · `OSS`
 
-Currently exploring:
+### Currently
 
-- 🤖 Machine Learning & Deep Learning
-- 🧠 LLMs & Agentic AI
-- ⚙️ AI Systems & Backend Engineering
-- 🔬 AI Research & Experimentation
-- 🌐 Open Source
-- 🚀 Building products from 0 → 1
-
-> `Learn → Build → Break → Debug → Ship → Repeat`
+→ Learning how intelligent systems actually work
+→ Building things I probably shouldn't be building yet
+→ Open-sourcing what survives
 
 ---
-
-## ⚡ Tech Stack
-
-### AI / ML
-
-`Python` `PyTorch` `Scikit-learn` `Hugging Face` `LLMs`
-
-### Agentic AI
-
-`LangChain` `LangGraph` `RAG` `FAISS` `AI Agents`
-
-### Backend
-
-`FastAPI` `PostgreSQL` `Redis` `Docker`
-
-### Frontend
-
-`React` `Next.js` `TypeScript` `TailwindCSS`
-
-### Tools
-
-`Git` `GitHub` `Vercel` `Supabase`
-
----
-
-## 🚀 Things I'm Building
-
-### 💰 FinBro
-**AI Finance Copilot**
-
-An AI-powered financial intelligence platform designed around
-AI CFO, financial analysis, forecasting, risk management and
-investor intelligence.
-
-`Python` `FastAPI` `PostgreSQL` `Redis` `LangGraph` `LLMs`
-
----
-
-### 💻 SahiCode
-**AI Developer OS**
-
-A browser-based developer workspace combining an IDE,
-AI assistance, project management and persistent developer context.
-
-`React` `TypeScript` `Monaco` `Supabase` `Prisma` `Redis`
-
----
-
-### ✍️ YehLikho
-**AI Humanizer**
-
-A platform designed to transform AI-generated writing
-into more natural and human-like content.
-
-`Next.js` `React` `TailwindCSS` `Framer Motion`
-
----
-
-## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat19G&show_icons=true&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshat19G&show_icons=true&hide_border=true&theme=transparent&hide_title=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat19G&hide_border=true&theme=transparent" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat19G&hide_border=true&theme=transparent" />
-</p>
-
----
-
-## 🌐 Find Me
-
-<p align="center">
-
-<a href="https://github.com/Akshat19G">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/akshat-srivastava-300455308/">
-<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://akshat-srivastava19.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.reddit.com/">
-<img src="https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 📬 Contact
-
-**Email:** `srivastavaakshat1909@gmail.com`
-
----
-
-<p align="center">
-
-### 🎬 A little something about what I build
-
-<a href="YOUR_VIDEO_LINK_HERE">
-  <img src="YOUR_VIDEO_THUMBNAIL_OR_GIF_URL" width="500" alt="Watch my video">
-</a>
-
-</p>
-
-<p align="center">
-  <sub>Click the video to watch</sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat19G&hide_border=true&bg_color=00000000&color=888888&line=888888&point=ffffff&area=true&area_color=888888" width="95%"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>𝓧 → 𝓜 → 𝓐 → 𝓢 → ∞</i>
+  <a href="https://akshat-srivastava19.vercel.app/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/akshat-srivastava-300455308/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.reddit.com/user/Akxxh4t/">Reddit</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Akshat19G">GitHub</a>
 </p>
 
 <p align="center">
-  <sub>Building systems that make intelligence useful.</sub>
+  <sub>𝓧 → 𝓜 → 𝓐 → 𝓢 → ∞</sub>
+</p>
+
+---
+
+<p align="center">
+  <a href="YOUR_VIDEO_LINK">
+    <img src="YOUR_VIDEO_THUMBNAIL_OR_GIF" width="520" alt="Watch"/>
+  </a>
 </p>
