@@ -121,6 +121,6 @@ Connects people with scholarships, government schemes, jobs and other opportunit
 
 <br>
 
-`θₜ₊₁ = θₜ − η∇𝓛(θₜ)`
+`bye-byeeeeeeee`
 
 </div>
