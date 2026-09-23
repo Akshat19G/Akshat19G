@@ -4,115 +4,125 @@
 
 <img src="./assets/akshat.jpg" width="150" alt="Akshat Srivastava, childhood photograph" />
 
-<sub><code>p(θ)</code> — the prior, before any data</sub>
+<sub><i>p(θ) · the prior, before any data</i></sub>
 
-**Computer Science @ Pimpri Chinchwad University**
-AI / ML · LLMs · Agentic AI · Backend · Open Source
+<br>
 
-`π* = argmax 𝔼[R]` &nbsp;·&nbsp; models, agents, and the backends that keep them running
+**Computer Science · Pimpri Chinchwad University**
+
+<kbd>AI / ML</kbd> <kbd>LLMs</kbd> <kbd>Agentic AI</kbd> <kbd>Backend</kbd> <kbd>Open Source</kbd>
+
+<br>
+
+`π* = argmax 𝔼[ Σ γᵗ rₜ ]`
+
+<sub>Models are the easy part. State, retrieval and plumbing decide whether they work.</sub>
+
+<br>
+
+<a href="#01--now">now</a> &nbsp;·&nbsp; <a href="#02--building">building</a> &nbsp;·&nbsp; <a href="#03--stack">stack</a> &nbsp;·&nbsp; <a href="#04--github">github</a> &nbsp;·&nbsp; <a href="#05--elsewhere">elsewhere</a>
 
 </div>
 
----
+<br>
 
-### now
+## 01 · now
 
 | | |
 |:--|:--|
-| **Agents** | multi-agent workflows with LangChain and LangGraph |
-| **Retrieval** | RAG pipelines, vector search with FAISS |
-| **Backend** | FastAPI services on PostgreSQL and Redis |
-| **Open source** | reading, contributing, shipping in public |
+| **Agents** | Multi-agent workflows with <kbd>LangChain</kbd> <kbd>LangGraph</kbd> |
+| **Retrieval** | RAG pipelines and vector search with <kbd>FAISS</kbd> |
+| **Backend** | <kbd>FastAPI</kbd> services over <kbd>PostgreSQL</kbd> and <kbd>Redis</kbd> |
+| **Models** | Training and experimentation with <kbd>PyTorch</kbd> and <kbd>Scikit-learn</kbd> |
+| **Open source** | Reading, contributing, shipping in public |
 
----
+<br>
 
-### building
+## 02 · building
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**FinBro**
+**FinBro**<br>
 <sub>AI Finance Copilot</sub>
 
-AI CFO capabilities, financial analysis, forecasting, risk and investor intelligence, with multi-agent workflows.
+AI CFO capabilities, financial analysis, forecasting, risk and investor intelligence, run through multi-agent workflows.
 
-<sub>[Repository](YOUR_FINBRO_REPO_URL) · [Details](https://akshat-srivastava19.vercel.app/)</sub>
+<kbd>forecasting</kbd> <kbd>risk</kbd> <kbd>multi-agent</kbd>
+
+<sub>[Repository](YOUR_FINBRO_REPO_URL) &nbsp;·&nbsp; [Details](https://akshat-srivastava19.vercel.app/)</sub>
 
 </td>
 <td width="33%" valign="top">
 
-**SahiCode**
+**SahiCode**<br>
 <sub>AI Developer OS</sub>
 
-A developer workspace: IDE, AI assistance, developer context and persistent project state.
+A developer workspace built around an IDE, AI assistance, developer context and persistent project state.
 
-<sub>[Repository](YOUR_SAHICODE_REPO_URL) · [Details](https://akshat-srivastava19.vercel.app/)</sub>
+<kbd>IDE</kbd> <kbd>context</kbd> <kbd>project state</kbd>
+
+<sub>[Repository](YOUR_SAHICODE_REPO_URL) &nbsp;·&nbsp; [Details](https://akshat-srivastava19.vercel.app/)</sub>
 
 </td>
 <td width="33%" valign="top">
 
-**Project Netr**
+**Project Netr**<br>
 <sub>Opportunity discovery</sub>
 
-Connects people with scholarships, government schemes, jobs and other opportunities.
+Connects people with scholarships, government schemes, jobs and other opportunities they would otherwise miss.
 
-<sub>[Repository](YOUR_NETR_REPO_URL) · [Details](https://akshat-srivastava19.vercel.app/)</sub>
+<kbd>scholarships</kbd> <kbd>schemes</kbd> <kbd>jobs</kbd>
+
+<sub>[Repository](YOUR_NETR_REPO_URL) &nbsp;·&nbsp; [Details](https://akshat-srivastava19.vercel.app/)</sub>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-### stack
+## 03 · stack
 
-| | |
+| Layer | Tools |
 |:--|:--|
-| **Languages** | `Python` `TypeScript` |
-| **ML** | `PyTorch` `Scikit-learn` |
-| **LLM / agents** | `LLMs` `RAG` `FAISS` `LangChain` `LangGraph` |
-| **Backend / data** | `FastAPI` `PostgreSQL` `Redis` |
-| **Frontend** | `React` `Next.js` `Tailwind` |
-| **Infra** | `Docker` |
+| **Languages** | <kbd>Python</kbd> <kbd>TypeScript</kbd> |
+| **Machine learning** | <kbd>PyTorch</kbd> <kbd>Scikit-learn</kbd> |
+| **LLMs & agents** | <kbd>LLMs</kbd> <kbd>RAG</kbd> <kbd>FAISS</kbd> <kbd>LangChain</kbd> <kbd>LangGraph</kbd> |
+| **Backend & data** | <kbd>FastAPI</kbd> <kbd>PostgreSQL</kbd> <kbd>Redis</kbd> |
+| **Frontend** | <kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Tailwind</kbd> |
+| **Infrastructure** | <kbd>Docker</kbd> |
 
----
+<br>
 
-### github
+## 04 · github
 
-<div align="center">
+| | | | |
+|:--|:--|:--|:--|
+| [**Repositories**](https://github.com/Akshat19G?tab=repositories) | [**Stars**](https://github.com/Akshat19G?tab=stars) | [**Followers**](https://github.com/Akshat19G?tab=followers) | [**Activity**](https://github.com/Akshat19G) |
+| <sub>everything I've shipped</sub> | <sub>what I'm reading</sub> | <sub>who's watching</sub> | <sub>the contribution graph</sub> |
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Akshat19G&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" height="165" alt="GitHub stats" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat19G&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" height="165" alt="Top languages" />
-</td>
-</tr>
-</table>
+<br>
 
-<img src="https://streak-stats.demolab.com?user=Akshat19G&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
+## 05 · elsewhere
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat19G&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+| | | |
+|:--|:--|:--|
+| **Portfolio** | [akshat-srivastava19.vercel.app](https://akshat-srivastava19.vercel.app/) | selected work |
+| **GitHub** | [@Akshat19G](https://github.com/Akshat19G) | code |
+| **LinkedIn** | [akshat-srivastava](https://www.linkedin.com/in/akshat-srivastava-300455308/) | professional |
+| **Reddit** | [u/Akxxh4t](https://www.reddit.com/user/Akxxh4t/) | discussion |
+| **Email** | [srivastavaakshat1909@gmail.com](mailto:srivastavaakshat1909@gmail.com) | direct |
 
-</div>
-
----
-
-### elsewhere
-
-[**GitHub**](https://github.com/Akshat19G) · [**Portfolio**](https://akshat-srivastava19.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/akshat-srivastava-300455308/) · [**Reddit**](https://www.reddit.com/user/Akxxh4t/) · [**Email**](mailto:srivastavaakshat1909@gmail.com)
-
----
+<br>
 
 <div align="center">
 
-<a href="YOUR_VIDEO_URL">
-  <img src="YOUR_VIDEO_THUMBNAIL" width="240" alt="Watch the video" />
-</a>
+<sub>▶ &nbsp;[watch](YOUR_VIDEO_URL)</sub>
 
-<sub>▶ watch</sub>
+<br>
+
+`θₜ₊₁ = θₜ − η∇𝓛(θₜ)`
 
 </div>
