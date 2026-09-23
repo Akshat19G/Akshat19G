@@ -116,7 +116,7 @@ Connects people with scholarships, government schemes, jobs and other opportunit
 <div align="center">
 
 <a href="https://github.com/Akshat19G/Akshat19G/blob/main/panchiguin_2409_ssspin.io_1790187837.gif">
-  <img src="https://raw.githubusercontent.com/Akshat19G/Akshat19G/main/panchiguin_2409_ssspin.io_1790187837.gif" width="640" alt="Panchiguin animation" />
+  <img src="https://raw.githubusercontent.com/Akshat19G/Akshat19G/main/panchiguin_2409_ssspin.io_1790187837.gif" width="560" alt="Panchiguin animation" />
 </a>
 
 <br>
