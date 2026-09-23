@@ -4,7 +4,7 @@
 
 <img src="./childhood.jpg" width="150" alt="Akshat Srivastava as a child" />
 
-<sub>“We are what we pretend to be.” — Mother Night</sub>
+<sub>“He had no idea what was coming. Neither did the camera.”</sub>
 
 <br>
 
