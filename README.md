@@ -2,7 +2,7 @@
 
 # Akshat Srivastava
 
-<img src="./assets/akshat.jpg" width="150" alt="Akshat Srivastava, childhood photograph" />
+<img src="./childhood.jpg" width="150" alt="Akshat Srivastava as a child" />
 
 <sub>“We are what we pretend to be.” — Mother Night</sub>
 
@@ -94,11 +94,7 @@ Connects people with scholarships, government schemes, jobs and other opportunit
 <div align="center">
 
 <a href="https://github.com/Akshat19G">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Akshat19G&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Akshat19G&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=656D76&dates=656D76">
-    <img src="https://streak-stats.demolab.com?user=Akshat19G&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=Akshat19G&hide_border=true" alt="GitHub streak" />
 </a>
 
 </div>
