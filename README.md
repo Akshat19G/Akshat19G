@@ -1,242 +1,163 @@
-Copy this entire thing into README.md.
-
-# Akshat Srivastava
+# Hey, I'm Akshat Srivastava 👋
 
 <p align="center">
-  <img src="./assets/childhood.jpg" width="230" alt="Akshat, a few years before discovering computers could be this much trouble">
+  <img src="YOUR_IMAGE_URL_HERE" width="180" alt="Akshat Srivastava">
 </p>
 
-_{ I don't think I was ever particularly good at knowing what I wanted to become. I just kept becoming curious about things, and curiosity has a strange way of turning into obsession. }_
+<p align="center">
+  <strong>AI Engineer • Builder • Open Source Enthusiast</strong>
+</p>
 
-Machine Learning Engineer in the making.
+<p align="center">
+  Building AI systems at 𝓜×𝓐×𝓢 | θ* = argminθ 𝓛(θ) | ∇𝓛 → 0
+</p>
 
-I'm interested in the part of technology where an idea stops being an idea and starts becoming a system — where mathematics becomes a model, a model becomes software, and software eventually becomes something another person can use.
-
-Right now, I'm learning how to build those systems.
-
-Not particularly interested in collecting technologies for the sake of having them on a résumé. I'd rather understand a few things deeply enough that I can build something with them without needing a tutorial open beside me.
-
-[Portfolio](https://akshat-srivastava19.vercel.app/) · [LinkedIn](#) · [GitHub](#)
-
----
-
-## Now
-
-I'm currently working toward becoming a strong **AI / Machine Learning Engineer**.
-
-The path I'm taking is deliberately broad:
-
-**Machine Learning → Deep Learning → Generative AI → AI Agents → Production AI**
-
-Alongside that, I'm keeping **Data Structures & Algorithms** as a separate track in **Java / C++**.
-
-Most of my learning happens through building.
-
-Sometimes the project works.
-
-Sometimes the project teaches me why it didn't.
-
-Both count.
+<p align="center">
+  Models → Agents → Production
+</p>
 
 ---
 
-## The Work
+## 🧠 About Me
 
-I like projects that begin with a simple question:
+I'm a Computer Science student focused on **Artificial Intelligence, Machine Learning,
+LLMs, and intelligent systems**.
 
-> *"Could this actually be useful?"*
+I like turning ideas into real products — from experimenting with models
+to building AI agents and deploying complete systems.
 
-and end somewhere considerably more complicated.
+Currently exploring:
 
-### Selected projects
+- 🤖 Machine Learning & Deep Learning
+- 🧠 LLMs & Agentic AI
+- ⚙️ AI Systems & Backend Engineering
+- 🔬 AI Research & Experimentation
+- 🌐 Open Source
+- 🚀 Building products from 0 → 1
 
-> **[PROJECT FROM PORTFOLIO #1]**  
-> _[Short description from your portfolio]_
-
-> **[PROJECT FROM PORTFOLIO #2]**  
-> _[Short description from your portfolio]_
-
-> **[PROJECT FROM PORTFOLIO #3]**  
-> _[Short description from your portfolio]_
-
-> **[PROJECT FROM PORTFOLIO #4]**  
-> _[Short description from your portfolio]_
-
-More experiments, half-finished ideas and things that probably should have been documented better are scattered across my repositories.
+> `Learn → Build → Break → Debug → Ship → Repeat`
 
 ---
 
-## How I Think About Building
+## ⚡ Tech Stack
 
-I don't want to become someone who knows how to use every new framework.
+### AI / ML
 
-There will always be another framework.
+`Python` `PyTorch` `Scikit-learn` `Hugging Face` `LLMs`
 
-Another model.
+### Agentic AI
 
-Another agent library.
+`LangChain` `LangGraph` `RAG` `FAISS` `AI Agents`
 
-Another abstraction sitting on top of another abstraction.
+### Backend
 
-What lasts a little longer is understanding.
+`FastAPI` `PostgreSQL` `Redis` `Docker`
 
-Understanding the problem.
+### Frontend
 
-Understanding the data.
+`React` `Next.js` `TypeScript` `TailwindCSS`
 
-Understanding the trade-offs.
+### Tools
 
-Understanding why something works.
-
-And, perhaps most importantly, understanding why it doesn't.
-
-> _"The first step toward mastery is realizing how much there is left to understand."_
-
-I'm still somewhere around that first step.
+`Git` `GitHub` `Vercel` `Supabase`
 
 ---
 
-## Learning
+## 🚀 Things I'm Building
 
-### AI / Machine Learning
+### 💰 FinBro
+**AI Finance Copilot**
 
-`Python` · `NumPy` · `Pandas` · `Scikit-learn`
+An AI-powered financial intelligence platform designed around
+AI CFO, financial analysis, forecasting, risk management and
+investor intelligence.
 
-`Machine Learning` · `Deep Learning`
-
-`Computer Vision` · `NLP`
-
-`Generative AI` · `LLMs` · `AI Agents`
-
-### Engineering
-
-`FastAPI` · `REST APIs` · `Git` · `GitHub`
-
-`Linux` · `Docker` · `APIs` · `Deployment`
-
-### Problem Solving
-
-`Java` · `C++`
-
-`Data Structures & Algorithms`
+`Python` `FastAPI` `PostgreSQL` `Redis` `LangGraph` `LLMs`
 
 ---
 
-## Building in Public
+### 💻 SahiCode
+**AI Developer OS**
 
-I learn significantly faster when there is something real at the end of the learning process.
+A browser-based developer workspace combining an IDE,
+AI assistance, project management and persistent developer context.
 
-So I try to keep the loop simple:
+`React` `TypeScript` `Monaco` `Supabase` `Prisma` `Redis`
 
-```text
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Understand
-  ↓
-Fix
-  ↓
-Ship
-  ↓
-Repeat
+---
 
-The objective isn't to make every project impressive.
+### ✍️ YehLikho
+**AI Humanizer**
 
-The objective is to make the next project better than the last one.
+A platform designed to transform AI-generated writing
+into more natural and human-like content.
 
-Hackathons
+`Next.js` `React` `TailwindCSS` `Framer Motion`
 
-Hackathons are probably my favorite way to learn.
+---
 
-They compress weeks of normal development into a few days of:
+## 📊 GitHub
 
-idea
-→ panic
-→ research
-→ build
-→ break
-→ rebuild
-→ pitch
-→ somehow ship
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshat19G&show_icons=true&hide_border=true&theme=transparent" />
+</p>
 
-I've worked on AI-driven solutions through hackathons, including iQOO Hackathon, where the focus wasn't just on whether an AI model could work, but whether the idea could become an actual product.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat19G&hide_border=true&theme=transparent" />
+</p>
 
-A Few Things I'm Trying to Become
+---
 
-Someone who can:
+## 🌐 Find Me
 
-take an unfamiliar problem and break it down
-understand the mathematics behind the model
-build the model
-turn it into an actual system
-deploy it
-explain the trade-offs
-and still be curious enough to ask better questions afterward
+<p align="center">
 
-Because knowing how to build something is useful.
+<a href="https://github.com/Akshat19G">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Knowing what is worth building is probably more important.
+<a href="https://www.linkedin.com/in/akshat-srivastava-300455308/">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Philosophy
+<a href="https://akshat-srivastava19.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-"You don't need to see the whole staircase. You just need to take the next step."
+<a href="https://www.reddit.com/">
+<img src="https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
 
-I like the idea, but I'm trying to take it one step further:
+</p>
 
-You should eventually learn to build your own staircase.
+---
 
-There is no perfect roadmap.
+## 📬 Contact
 
-No perfect stack.
+**Email:** `srivastavaakshat1909@gmail.com`
 
-No perfect time to start.
+---
 
-At some point, you stop preparing to build and you simply start building.
+<p align="center">
 
-Outside the Code
+### 🎬 A little something about what I build
 
-The person writing this README once thought a birthday party hat was serious fashion.
+<a href="YOUR_VIDEO_LINK_HERE">
+  <img src="YOUR_VIDEO_THUMBNAIL_OR_GIF_URL" width="500" alt="Watch my video">
+</a>
 
-He was probably happier.
+</p>
 
-He also had considerably fewer bugs.
+<p align="center">
+  <sub>Click the video to watch</sub>
+</p>
 
-The goal isn't really to become a completely different person from that kid.
+---
 
-Just to give him better things to be curious about.
+<p align="center">
+  <i>𝓧 → 𝓜 → 𝓐 → 𝓢 → ∞</i>
+</p>
 
-Current Status
-AI / ML              ███████░░░  Learning
-Deep Learning        █████░░░░░  Exploring
-Generative AI        ██████░░░░  Building
-AI Agents            ████░░░░░░  Exploring
-DSA                  ██████░░░░  Java / C++
-Systems              ███░░░░░░░  Learning
-Shipping             ███████░░░  Trying
-What's Next
-
-More building.
-
-More mathematics.
-
-More systems.
-
-More uncomfortable problems.
-
-Less tutorial hell.
-
-And hopefully a few projects that are actually worth remembering.
-
-Connect
-
-Portfolio
-akshat-srivastava19.vercel.app
-
-LinkedIn
-LinkedIn
-
-GitHub
-GitHub
+<p align="center">
+  <sub>Building systems that make intelligence useful.</sub>
+</p>
