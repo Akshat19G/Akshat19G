@@ -1,66 +1,78 @@
+<div align="center">
+
 # Akshat Srivastava
 
-<p align="center">
-  <img src="https://github.com/Akshat19G.png" width="150" alt="Akshat Srivastava"/>
-</p>
+<img src="./assets/akshat.jpg" width="140" alt="Akshat Srivastava">
 
-<p align="center">
-  <code>AI Engineer • Builder • Open Source</code>
-</p>
+### AI / ML · LLMs · Backend · Open Source
 
-<p align="center">
-  𝓜 × 𝓐 × 𝓢 &nbsp;|&nbsp; θ* = argmin<sub>θ</sub> 𝓛(θ) &nbsp;|&nbsp; ∇𝓛 → 0
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://akshat-srivastava19.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-srivastava-300455308/)
+[![Reddit](https://img.shields.io/badge/Reddit-111111?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Akxxh4t/)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:srivastavaakshat1909@gmail.com)
 
-<p align="center">
-  Models → Agents → Production
-</p>
+</div>
 
 ---
 
-### Building
+I'm a Computer Science student building around **AI, machine learning and intelligent software**.
 
-AI systems, intelligent agents and software that survives contact with reality.
+Currently interested in **LLMs, agentic AI, ML systems, backend engineering and open source**.
 
-`Python` · `PyTorch` · `ML` · `LLMs` · `Agents` · `FastAPI` · `OSS`
-
-### Currently
-
-→ Learning how intelligent systems actually work
-→ Building things I probably shouldn't be building yet
-→ Open-sourcing what survives
+`Python` · `PyTorch` · `Scikit-learn` · `FastAPI` · `LangGraph` · `PostgreSQL` · `Redis` · `Docker`
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat19G&show_icons=true&hide_border=true&theme=transparent&hide_title=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat19G&hide_border=true&theme=transparent" height="150"/>
-</p>
+### Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat19G&hide_border=true&bg_color=00000000&color=888888&line=888888&point=ffffff&area=true&area_color=888888" width="95%"/>
-</p>
+**[FinBro](https://github.com/Akshat19G)** — AI Finance Copilot  
+Financial analysis, forecasting, risk intelligence and multi-agent workflows.
 
----
+**[SahiCode](https://github.com/Akshat19G)** — AI Developer OS  
+An AI-powered development workspace built around code, context and persistent state.
 
-<p align="center">
-  <a href="https://akshat-srivastava19.vercel.app/">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/akshat-srivastava-300455308/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.reddit.com/user/Akxxh4t/">Reddit</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Akshat19G">GitHub</a>
-</p>
-
-<p align="center">
-  <sub>𝓧 → 𝓜 → 𝓐 → 𝓢 → ∞</sub>
-</p>
+**[Project Netr](https://github.com/Akshat19G/Project-Netr)** — Opportunity Discovery Platform  
+Connecting people with relevant scholarships, government schemes and opportunities.
 
 ---
 
-<p align="center">
-  <a href="YOUR_VIDEO_LINK">
-    <img src="YOUR_VIDEO_THUMBNAIL_OR_GIF" width="520" alt="Watch"/>
-  </a>
-</p>
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Akshat19G&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"/>
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat19G&hide_border=true&theme=transparent"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat19G&bg_color=00000000&color=777777&line=777777&point=111111&area=true&hide_border=true" width="94%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+`Python` · `Machine Learning` · `LLMs` · `AI Agents` · `FastAPI` · `React` · `Next.js`
+
+<br><br>
+
+[GitHub](https://github.com/Akshat19G) ·
+[Portfolio](https://akshat-srivastava19.vercel.app/) ·
+[LinkedIn](https://www.linkedin.com/in/akshat-srivastava-300455308/) ·
+[Reddit](https://www.reddit.com/user/Akxxh4t/)
+
+<br><br>
+
+<sub>𝓧 → 𝓜 → 𝓐 → 𝓢</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="YOUR_VIDEO_URL_HERE">
+<img src="YOUR_VIDEO_THUMBNAIL_OR_GIF_URL" width="440" alt="Video">
+</a>
+
+</div>
