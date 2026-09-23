@@ -8,15 +8,13 @@
 
 <br>
 
-**Computer Science · Pimpri Chinchwad University**
-
 <kbd>AI / ML</kbd> <kbd>LLMs</kbd> <kbd>Agentic AI</kbd> <kbd>Backend</kbd> <kbd>Open Source</kbd>
 
 <br>
 
 `π* = argmax 𝔼[ Σ γᵗ rₜ ]`
 
-<sub>Models are the easy part. State, retrieval and plumbing decide whether they work.</sub>
+<sub>“We are what we pretend to be.” — Mother Night</sub>
 
 <br>
 
