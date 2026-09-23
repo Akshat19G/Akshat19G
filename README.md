@@ -115,7 +115,10 @@ Connects people with scholarships, government schemes, jobs and other opportunit
 
 <div align="center">
 
-<sub>▶ &nbsp;[watch](YOUR_VIDEO_URL)</sub>
+<video controls width="640">
+  <source src="./panchiguin_2409_ssspin.io_1790187837.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <br>
 
