@@ -115,9 +115,9 @@ Connects people with scholarships, government schemes, jobs and other opportunit
 
 <div align="center">
 
-<video controls width="640">
-  <source src="./panchiguin_2409_ssspin.io_1790187837.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<video controls autoplay loop muted playsinline width="640">
+  <source src="https://raw.githubusercontent.com/Akshat19G/Akshat19G/main/panchiguin_2409_ssspin.io_1790187837.mp4" type="video/mp4">
+  <a href="https://raw.githubusercontent.com/Akshat19G/Akshat19G/main/panchiguin_2409_ssspin.io_1790187837.mp4">Watch the video</a>
 </video>
 
 <br>
