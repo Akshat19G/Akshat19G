@@ -4,16 +4,6 @@
 
 <img src="./assets/akshat.jpg" width="150" alt="Akshat Srivastava, childhood photograph" />
 
-<sub><i>p(θ) · the prior, before any data</i></sub>
-
-<br>
-
-<kbd>AI / ML</kbd> <kbd>LLMs</kbd> <kbd>Agentic AI</kbd> <kbd>Backend</kbd> <kbd>Open Source</kbd>
-
-<br>
-
-`π* = argmax 𝔼[ Σ γᵗ rₜ ]`
-
 <sub>“We are what we pretend to be.” — Mother Night</sub>
 
 <br>
