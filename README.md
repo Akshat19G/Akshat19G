@@ -6,21 +6,7 @@
 
 <div align="center">
 
-<br><br>
 
-<a href="https://akshat-srivastava19.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/akshat-srivastava-300455308/"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
-<a href="mailto:srivastavaakshat1909@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" /></a>
-<a href="https://www.reddit.com/user/Akxxh4t/"><img src="https://img.shields.io/badge/reddit-0d1117?style=for-the-badge&logo=reddit&logoColor=ff4500" alt="Reddit" /></a>
-
-<br><br>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0b0f1a,100:312e81&text=Akshat%20Srivastava&fontColor=f0f6fc&fontSize=58&fontAlignY=36&desc=AI%20engineer%20%2F%20agents%20%2F%20retrieval%20%2F%20backend&descColor=9aa7bd&descSize=19&descAlignY=58&animation=fadeIn" alt="Akshat Srivastava" width="100%" />
-
-<a href="https://github.com/Akshat19G">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+multi-agent+systems+that+ship;RAG+pipelines+%7C+FastAPI+%7C+PyTorch;Reading%2C+contributing%2C+shipping+in+public" alt="Intro" />
-</a>
 
 <br>
 
