@@ -6,8 +6,6 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" alt="Akshat Srivastava" width="100%" />
-
 <br><br>
 
 <a href="https://akshat-srivastava19.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
