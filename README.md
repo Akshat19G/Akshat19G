@@ -6,16 +6,8 @@
 
 <div align="center">
 
-
 </div>
-
 <br>
-
-I build applied AI products end to end: the agent logic, the retrieval layer, the API and the interface. Most of my work is Python and TypeScript, focused on multi-agent workflows that hold up outside a demo.
-
-**Building** &nbsp;Multi-agent workflows with LangChain and LangGraph, RAG pipelines with FAISS, FastAPI services on PostgreSQL and Redis.  
-**Open source** &nbsp;Reading, contributing and shipping in public.
-
 <br>
 
 <div align="center">
