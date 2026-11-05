@@ -108,8 +108,6 @@ Connects people with scholarships, government schemes and jobs they would otherw
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=adbac7" alt="Time spent coding" />
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0b0f1a,100:312e81&section=footer" width="100%" alt="" />
