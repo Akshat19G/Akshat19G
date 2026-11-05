@@ -1,24 +1,11 @@
 <div align="center">
 
-# Akshat Srivastava
+# Midnight Coder
 
 <img src="./childhood.jpg" width="150" alt="Akshat Srivastava as a child" />
 
 <div align="center">
 
-
-
-<br>
-
-<a href="https://akshat-srivastava19.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/akshat-srivastava-300455308/"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
-<a href="mailto:srivastavaakshat1909@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" /></a>
-<a href="https://www.reddit.com/user/Akxxh4t/"><img src="https://img.shields.io/badge/reddit-0d1117?style=for-the-badge&logo=reddit&logoColor=ff4500" alt="Reddit" /></a>
-<a href="https://github.com/Akshat19G?tab=repositories"><img src="https://img.shields.io/badge/repositories-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-
-<br><br>
-
-<sub><i>He had no idea what was coming. Neither did the camera.</i></sub>
 
 </div>
 
@@ -49,7 +36,7 @@ I build applied AI products end to end: the agent logic, the retrieval layer, th
 
 <br><br>
 
-<sub><i>He had no idea what was coming. Neither did the camera.</i></sub>
+<sub><i>Coding for the plot..</i></sub>
 
 </div>
 
