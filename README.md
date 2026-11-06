@@ -93,7 +93,6 @@ Connects people with scholarships, government schemes and jobs they would otherw
 <img src="https://skillicons.dev/icons?i=py,ts,pytorch,sklearn,fastapi,postgres,redis,react,nextjs,tailwind,docker&theme=dark&perline=11" alt="Tech stack" />
 
 <sub>Agents and retrieval: LangChain, LangGraph, RAG, FAISS</sub>
-
 </div>
 
 <br>
