@@ -124,7 +124,59 @@ Connects people with scholarships, government schemes and jobs they would otherw
 | **Email** | [srivastavaakshat1909@gmail.com](mailto:srivastavaakshat1909@gmail.com) | direct |
 
 <br>
+## GitHub observatory
 
+A living snapshot of the code, contributions, and consistency behind the projects.
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Akshat19G&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=A78BFA" alt="Total contributions, current streak, and longest streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat19G&bg_color=0D1117&color=A78BFA&line=67E8F9&point=FFFFFF&area=true&area_color=A78BFA&hide_border=true" alt="Recent contribution activity graph" />
+</p>
+
+**Explore more · contribution history, language breakdowns & commit timing**
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshat19G&theme=tokyonight" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshat19G&theme=tokyonight" alt="Repositories by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akshat19G&theme=tokyonight" alt="Commits by language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akshat19G&theme=tokyonight" alt="Stats summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshat19G&theme=tokyonight&utcOffset=5.5" alt="Commit distribution by hour (IST)" />
+</p>
+
+**Trophy cabinet · community-generated milestones**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshat19G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophies" />
+</p>
+
+**Project pulse · featured repository**
+
+<p align="center">
+  <a href="https://github.com/Akshat19G/Legal-Ask">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat19G&repo=Legal-Ask&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=67e8f9&text_color=c9d1d9" alt="Featured repository card" />
+  </a>
+</p>
+
+**A year of contributions, in motion**
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshat19G/Akshat19G/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshat19G/Akshat19G/output/github-snake.svg" />
+    <img alt="Animated snake traversing my GitHub contribution calendar" src="https://raw.githubusercontent.com/Akshat19G/Akshat19G/output/github-snake.svg" />
+  </picture>
+</p>
+
+<sub>Cards reflect the data available to each provider and may refresh at different times. Language distribution describes repository code, not proficiency; commit timing is not time spent coding.</sub>
 <div align="center">
 
 <a href="https://github.com/Akshat19G/Akshat19G/blob/main/panchiguin_2409_ssspin.io_1790187837.gif">
