@@ -148,19 +148,6 @@ A living snapshot of the code, contributions, and consistency behind the project
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshat19G&theme=tokyonight&utcOffset=5.5" alt="Commit distribution by hour (IST)" />
 </p>
 
-**Trophy cabinet · community-generated milestones**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshat19G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophies" />
-</p>
-
-**Project pulse · featured repository**
-
-<p align="center">
-  <a href="https://github.com/Akshat19G/Legal-Ask">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat19G&repo=Legal-Ask&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=67e8f9&text_color=c9d1d9" alt="Featured repository card" />
-  </a>
-</p>
 
 **A year of contributions, in motion**
 
