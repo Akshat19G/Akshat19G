@@ -132,10 +132,6 @@ A living snapshot of the code, contributions, and consistency behind the project
   <img src="https://streak-stats.demolab.com/?user=Akshat19G&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=A78BFA" alt="Total contributions, current streak, and longest streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat19G&bg_color=0D1117&color=A78BFA&line=67E8F9&point=FFFFFF&area=true&area_color=A78BFA&hide_border=true" alt="Recent contribution activity graph" />
-</p>
-
 **Explore more · contribution history, language breakdowns & commit timing**
 
 <p align="center">
